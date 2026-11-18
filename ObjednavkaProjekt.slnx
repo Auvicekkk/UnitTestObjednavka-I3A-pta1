@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ObjednavkaProjekt/ObjednavkaProjekt.csproj" />
+  <Project Path="TestProject1/TestProject1.csproj" Id="00cdfb1d-e5d3-456a-ade9-1df1697da86b" />
+</Solution>
